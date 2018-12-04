@@ -1,0 +1,12 @@
+PODS:
+  - MonthYearPicker (3.0.0)
+
+DEPENDENCIES:
+  - MonthYearPicker (~> 3.0)
+
+SPEC CHECKSUMS:
+  MonthYearPicker: 59cfa26c5bfbbc52ef147360d9846c349f578991
+
+PODFILE CHECKSUM: fd0609b1b7e25c8a22b9cf4922c7c1603e03b3c9
+
+COCOAPODS: 1.4.0
